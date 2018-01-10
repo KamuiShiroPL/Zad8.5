@@ -1,7 +1,7 @@
 // Traingle area
 
 var a=prompt("Base", "Base?");
-var h=prompt("He", "He?");
+var h=prompt("Heigh", "height?");
 var triangleArea = (a * h)/2;
 
 document.write("Area is ",  a * h / 2);
